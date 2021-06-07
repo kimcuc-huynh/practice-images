@@ -1,3 +1,3 @@
 # img
 
-Some description.
+Some description
